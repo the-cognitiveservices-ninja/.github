@@ -7,6 +7,7 @@
 
 ### Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Use CRM Data in your Power Virtual Agent Voice Bot](https://the.cognitiveservices.ninja/use-crm-data-in-your-power-virtual-agent-voice-bot)
 - [Give your Bots a voice](https://the.cognitiveservices.ninja/give-your-bots-a-voice)
 - [Extend Power Virtual Agent with Azure Cognitive Services](https://the.cognitiveservices.ninja/extend-power-virtual-agent-with-azure-cognitive-services-eab95018b7f6)
 - [Power Virtual Agents Application Lifecycle Management](https://the.cognitiveservices.ninja/power-virtual-agents-application-lifecycle-management-38bf9882e2d6)
