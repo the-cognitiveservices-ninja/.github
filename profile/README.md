@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holgerimbery&label=Profile%20views&color=0e75b6&style=flat" alt="holgerimbery" /> </p>
 
-### Blogs posts - hashnode.com
+### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
 - [Dynamics 365 Customer Service with Power Virtual Agents - Part 1 &lpar;automation with text chat&rpar;](https://the.cognitiveservices.ninja/dynamics-365-customer-service-with-power-virtual-agents-part-1-automation-with-text-chat)
 - [Power Virtual Agents - a low-code platform for conversational assistants](https://the.cognitiveservices.ninja/power-virtual-agents-a-low-code-platform-for-conversational-assistants)
