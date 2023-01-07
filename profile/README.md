@@ -7,10 +7,10 @@
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Dynamics 365 Customer Service with Power Virtual Agents - Part 2 &lpar;automation with voice/voice bots&rpar;](https://the.cognitiveservices.ninja/dynamics-365-customer-service-with-power-virtual-agents-part-2-automation-with-voicevoice-bots)
 - [Dynamics 365 Customer Service with Power Virtual Agents - Part 1 &lpar;automation with text chat&rpar;](https://the.cognitiveservices.ninja/dynamics-365-customer-service-with-power-virtual-agents-part-1-automation-with-text-chat)
 - [Power Virtual Agents - a low-code platform for conversational assistants](https://the.cognitiveservices.ninja/power-virtual-agents-a-low-code-platform-for-conversational-assistants)
 - [Use CRM Data in your Power Virtual Agent Voice Bot](https://the.cognitiveservices.ninja/use-crm-data-in-your-power-virtual-agent-voice-bot)
 - [Give your Bots a voice](https://the.cognitiveservices.ninja/give-your-bots-a-voice)
-- [Extend Power Virtual Agent with Azure Cognitive Services](https://the.cognitiveservices.ninja/extend-power-virtual-agent-with-azure-cognitive-services-eab95018b7f6)
 <!-- HASHNODE:END -->
 
