@@ -17,10 +17,10 @@
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Dynamics 365 Customer service: Realtime translation to break barriers in text chats.](https://the.cognitiveservices.ninja/dynamics-365-customer-service-realtime-translation-to-break-barriers-in-text-chats)
 - [Dynamics 365 customer service: configure call recording and transcription for voice bots and agent dialogues.](https://the.cognitiveservices.ninja/dynamics-365-customer-service-configure-call-recording-and-transcription-for-voice-bots-and-agent-dialogues)
 - [personalized customer experience with voice bots and Dynamics 365 Customer Service](https://the.cognitiveservices.ninja/personalized-customer-experience-with-voice-bots-and-dynamics-365-customer-service)
 - [Dynamics 365 Customer Service - escalating to a Teams User](https://the.cognitiveservices.ninja/dynamics-365-customer-service-escalating-to-a-teams-user)
 - [Dynamics 365 Customer Service Voice Channel](https://the.cognitiveservices.ninja/dynamics-365-customer-service-voice-channel)
-- [Multilingual IVR Replacement for Dynamics 365 Customer Service &lpar;Voice Bot&rpar;](https://the.cognitiveservices.ninja/multilingual-ivr-replacement-for-dynamics-365-customer-service-voice-bot)
 <!-- HASHNODE:END -->
 
