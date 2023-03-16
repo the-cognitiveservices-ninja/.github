@@ -1,7 +1,8 @@
 # Holger Imbery
 ### Code Fanatic | Low Code Hacker | Bot Keeper | Power Platform & Azure Architect | developers advocate
 
-⤷ Science and technology enthusiast, Microsoft Power Platform and Azure Architect - writes and talks about conversational AI and robotic process automation.
+⤷ As an architect at heart, 
+I am passionate about conversational AI and robotic process automation and helping you do more with less.
 
  <a aligh="left" href="https://www.cognitiveservices.ninja" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:the@cognitiveservices,ninja" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/holgerimbery" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
