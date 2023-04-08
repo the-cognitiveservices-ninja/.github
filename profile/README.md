@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Azure OpenAI Services: Getting started.](https://the.cognitiveservices.ninja/azure-openai-services-getting-started)
 - [Power Virtual Agents - Create and Edit with Copilot &lpar;preview&rpar;](https://the.cognitiveservices.ninja/power-virtual-agents-create-and-edit-with-copilot-preview)
 - [Power Virtual Agents - GPT based conversation booster &lpar;preview&rpar;](https://the.cognitiveservices.ninja/power-virtual-agents-gpt-based-conversation-booster-preview)
 - [Dynamics 365 Customer service - always an answer to every question](https://the.cognitiveservices.ninja/dynamics-365-customer-service-always-an-answer-to-every-question)
 - [Power Virtual Agents: Use OpenAI GPT-3.5 as a helper for trigger phrases and custom entities](https://the.cognitiveservices.ninja/power-virtual-agents-use-openai-gpt-35-as-a-helper-for-trigger-phrases-and-custom-entities)
-- [Dynamics 365 Customer service: Realtime translation to break barriers in text chats.](https://the.cognitiveservices.ninja/dynamics-365-customer-service-realtime-translation-to-break-barriers-in-text-chats)
 <!-- HASHNODE:END -->
 
