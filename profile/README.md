@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Transform your AI assistants with the ability to generate answers, perform actions, and additional features using Microsoft Power Virtual Agents](https://the.cognitiveservices.ninja/transform-your-ai-assistants-with-the-ability-to-generate-answers-perform-actions-and-additional-features-using-microsoft-power-virtual-agents)
 - [Business Process Automation for Sustainability: Why It Matters](https://the.cognitiveservices.ninja/business-process-automation-for-sustainability-why-it-matters)
 - [Power Virtual Agents and PowerFX: A Sneak Peek](https://the.cognitiveservices.ninja/power-virtual-agents-and-powerfx-a-sneak-peek)
 - [Power Virtual Agents: Find Online Content-Based Topic Suggestions](https://the.cognitiveservices.ninja/power-virtual-agents-find-online-content-based-topic-suggestions)
 - [Bot Framework Composer and Power Virtual Agents: Why It&#39;s Time to Make the Switch](https://the.cognitiveservices.ninja/bot-framework-composer-and-power-virtual-agents-why-its-time-to-make-the-switch)
-- [Comparing Power Virtual Agents for Microsoft Teams vs Standalone Subscription: Which One to Choose?](https://the.cognitiveservices.ninja/power-virtual-agents-licensing)
 <!-- HASHNODE:END -->
 
