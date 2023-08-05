@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Generative answers with Search and summarize the content with Power Virtual Agents](https://the.cognitiveservices.ninja/generative-answers-with-search-and-summarize-the-content-with-power-virtual-agents)
 - [Power Virtual Agent in a Day - a curated link list](https://the.cognitiveservices.ninja/power-virtual-agent-in-a-day-a-curated-link-list)
 - [Generative Answers with Power Virtual Agents](https://the.cognitiveservices.ninja/generative-answers-with-power-virtual-agents)
 - [Enhancing Customer Support with Power Virtual Agent Copilot](https://the.cognitiveservices.ninja/enhancing-customer-support-with-power-virtual-agent-copilot)
 - [Enhancing Customer Support with Dynamics 365 Copilot](https://the.cognitiveservices.ninja/enhancing-customer-support-with-dynamics-365-copilot)
-- [Dynamics 365 Customer Service: Effortlessly Detect Clients in Conversations](https://the.cognitiveservices.ninja/dynamics-365-customer-service-effortlessly-detect-clients-in-conversations)
 <!-- HASHNODE:END -->
 
