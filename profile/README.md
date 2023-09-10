@@ -18,7 +18,7 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
-- [Create Your &quot;ownGPT&quot; in a Protected Way and Advance Its Potential &lpar;Part 1&rpar;](https://the.cognitiveservices.ninja/create-your-owngpt-in-a-protected-way-and-advance-its-potential-part-1)
+- [Create Your &quot;ownGPT&quot; in a Protected Way and Advance Its Potential &lpar;Part 1&rpar; - a simple web chat experience targeting chatGPT through AOAI](https://the.cognitiveservices.ninja/create-your-owngpt-in-a-protected-way-and-advance-its-potential-part-1-a-simple-web-chat-experience-targeting-chatgpt-through-aoai)
 - [Azure OpenAI Services as a &quot;CoPilot&quot; in Visual Studio Code](https://the.cognitiveservices.ninja/azure-openai-services-as-a-copilot-in-visual-studio-code)
 - [Azure OpenAi services: working with your own data without compromising your intellectual property](https://the.cognitiveservices.ninja/azure-openai-services-working-with-your-own-data-without-compromising-your-intellectual-property)
 - [Customer Service Automation: The Perfect Duo of Dynamics 365 Customer Service &amp; Power Virtual Agent](https://the.cognitiveservices.ninja/customer-service-automation-the-perfect-duo-of-dynamics-365-customer-service-power-virtual-agent)
