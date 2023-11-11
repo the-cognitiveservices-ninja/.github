@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Mastering ALM &lpar;Application LifeCycle Management&rpar; for Microsoft Power Platform: A Comprehensive Guide &lpar;Part 4 - working with pipelines&rpar;](https://the.cognitiveservices.ninja/mastering-alm-application-lifecycle-management-for-microsoft-power-platform-a-comprehensive-guide-part-4-working-with-pipelines)
 - [Mastering ALM &lpar;Application LifeCycle Management&rpar; for Microsoft Power Platform: A Comprehensive Guide &lpar;Part 3 - working with solutions&rpar;](https://the.cognitiveservices.ninja/mastering-alm-application-lifecycle-management-for-microsoft-power-platform-a-comprehensive-guide-part-3-working-with-solutions)
 - [Mastering ALM &lpar;Application LifeCycle Management&rpar; for Microsoft Power Platform: A Comprehensive Guide &lpar;Part 2 - environment setup&rpar;](https://the.cognitiveservices.ninja/mastering-alm-application-lifecycle-management-for-microsoft-power-platform-a-comprehensive-guide-part-2-environment-setup)
 - [Mastering ALM &lpar;Application LifeCycle Management&rpar; for Microsoft Power Platform: A Comprehensive Guide &lpar;Part 1 - the basics&rpar;](https://the.cognitiveservices.ninja/mastering-alm-application-lifecycle-management-for-microsoft-power-platform-a-comprehensive-guide-part-1-the-basics)
 - [Revolutionizing Bot Building: Unleash the Power of Generative Actions in Power Virtual Agents](https://the.cognitiveservices.ninja/revolutionizing-bot-building-unleash-the-power-of-generative-actions-in-power-virtual-agents)
-- [Create Your &quot;ownGPT&quot; in a Protected Way and Advance Its Potential &lpar;Part 5&rpar; - Refine and enhance knowledge on your own data](https://the.cognitiveservices.ninja/create-your-owngpt-in-a-protected-way-and-advance-its-potential-part-5-refine-and-enhance-knowledge-on-your-own-data)
 <!-- HASHNODE:END -->
 
