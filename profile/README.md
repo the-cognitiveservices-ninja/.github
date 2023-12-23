@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Leveraging Dynamics 365 Customer Service for a Superior Digital Contact Center Experience](https://the.cognitiveservices.ninja/leveraging-dynamics-365-customer-service-for-a-superior-digital-contact-center-experience)
 - [Dynamics 365 Customer Service: Verify Users with a Single-Use Password in Text Chat](https://the.cognitiveservices.ninja/dynamics-365-customer-service-verify-users-with-a-single-use-password-in-text-chat)
 - [SharePoint Integration: Add Your Custom Microsoft Copilot Studio Copilot with SSO Support](https://the.cognitiveservices.ninja/sharepoint-integration-add-your-custom-microsoft-copilot-studio-copilot-with-sso-support)
 - [Mastering ALM &lpar;Application LifeCycle Management&rpar; for Microsoft Power Platform: A Comprehensive Guide &lpar;Part 6 - digging deeper&rpar;](https://the.cognitiveservices.ninja/mastering-alm-application-lifecycle-management-for-microsoft-power-platform-a-comprehensive-guide-part-6-digging-deeper)
 - [Mastering ALM &lpar;Application LifeCycle Management&rpar; for Microsoft Power Platform: A Comprehensive Guide &lpar;Part 5 - approval with pipeline&rpar;](https://the.cognitiveservices.ninja/mastering-alm-application-lifecycle-management-for-microsoft-power-platform-a-comprehensive-guide-part-5-approval-with-pipeline)
-- [Multilingual Magic: Power Virtual Agents / CoPilots for Global Engagement &lpar;preview&rpar;](https://the.cognitiveservices.ninja/multilingual-magic-power-virtual-agents-copilots-for-global-engagement-preview)
 <!-- HASHNODE:END -->
 
