@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Add a Copilot Studio Bot to Dynamics 365 Customer Service for Improved Assistance](https://the.cognitiveservices.ninja/add-a-copilot-studio-bot-to-dynamics-365-customer-service-for-improved-assistance)
 - [Streamline Your Workflow with Power Automate Copilot](https://the.cognitiveservices.ninja/streamline-your-workflow-with-power-automate-copilot)
 - [Exploring the Potential of Retrieval-Augmented Generation using Azure Open AI Solutions and build your ownGPT](https://the.cognitiveservices.ninja/exploring-the-potential-of-retrieval-augmented-generation-using-azure-open-ai-solutions-and-build-your-owngpt)
 - [Leveraging Dynamics 365 Customer Service for a Superior Digital Contact Center Experience](https://the.cognitiveservices.ninja/leveraging-dynamics-365-customer-service-for-a-superior-digital-contact-center-experience)
 - [Dynamics 365 Customer Service: Verify Users with a Single-Use Password in Text Chat](https://the.cognitiveservices.ninja/dynamics-365-customer-service-verify-users-with-a-single-use-password-in-text-chat)
-- [SharePoint Integration: Add Your Custom Microsoft Copilot Studio Copilot with SSO Support](https://the.cognitiveservices.ninja/sharepoint-integration-add-your-custom-microsoft-copilot-studio-copilot-with-sso-support)
 <!-- HASHNODE:END -->
 
