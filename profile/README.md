@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Microsoft 365 &lpar;graph-grounded&rpar; Chat Prompts](https://aiassistant.studio/microsoft-365-graph-grounded-chat-prompts)
 - [The Evolution of Interaction: An Essay on Copilot &lpar;graph grounded&rpar; Chat](https://aiassistant.studio/the-evolution-of-interaction-an-essay-on-copilot-graph-grounded-chat)
 - [CoPilot related topics have a new home](https://the.cognitiveservices.ninja/copilot-related-topics-have-a-new-home)
 - [Unlocking Productivity and Creativity: Harnessing the Power of Microsoft 365 Copilot with good prompts](https://aiassistant.studio/unlocking-productivity-and-creativity-harnessing-the-power-of-microsoft-365-copilot-with-good-prompts)
 - [Unlocking Productivity and Creativity: Harnessing the Power of CoPilot for Microsoft 365 with good prompts](https://the.cognitiveservices.ninja/unlocking-productivity-and-creativity-harnessing-the-power-of-microsoft-365-copilot-with-good-prompts)
-- [Future Improvements for CoPilot Studio Voicebots: A  Roadmap Update](https://the.cognitiveservices.ninja/future-improvements-for-copilot-studio-voicebots-a-roadmap-update)
 <!-- HASHNODE:END -->
 
