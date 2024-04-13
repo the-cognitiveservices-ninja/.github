@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Streamline Your Excel Work: Effective Data Management with Copilot](https://aiassistant.studio/streamline-your-excel-work-effective-data-management-with-copilot)
 - [Improve Your PowerPoint Slides with Creativity Tools from Microsoft 365 Copilot](https://aiassistant.studio/improve-your-powerpoint-slides-with-creativity-tools-from-microsoft-365-copilot)
 - [Kickstart Your Experience with Copilot in Microsoft Teams Meetings](https://aiassistant.studio/kickstart-your-experience-with-copilot-in-microsoft-teams-meetings)
 - [Utilize CoPilot for Microsoft 365 to enhance the effectiveness of your email](https://aiassistant.studio/utilize-copilot-for-microsoft-365-to-enhance-the-effectiveness-of-your-email)
 - [Using Microsoft Copilot in Word](https://aiassistant.studio/using-microsoft-copilot-in-word)
-- [Enjoy Copilot&#39;s writing assistance anywhere in your browser at no extra charge](https://aiassistant.studio/enjoy-copilots-writing-assistance-anywhere-in-your-browser-at-no-extra-charge)
 <!-- HASHNODE:END -->
 
