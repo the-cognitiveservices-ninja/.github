@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Enhancing Customer Connections: The Power of Preferred Agent Routing in Dynamics 365 Customer Service](https://the.cognitiveservices.ninja/enhancing-customer-connections-the-power-of-preferred-agent-routing-in-dynamics-365-customer-service)
 - [Enhancing Whiteboard Capabilities with Copilot](https://aiassistant.studio/enhancing-whiteboard-capabilities-with-copilot)
 - [Streamline Your Excel Work: Effective Data Management with Copilot](https://aiassistant.studio/streamline-your-excel-work-effective-data-management-with-copilot)
 - [Improve Your PowerPoint Slides with Creativity Tools from Microsoft 365 Copilot](https://aiassistant.studio/improve-your-powerpoint-slides-with-creativity-tools-from-microsoft-365-copilot)
 - [Kickstart Your Experience with Copilot in Microsoft Teams Meetings](https://aiassistant.studio/kickstart-your-experience-with-copilot-in-microsoft-teams-meetings)
-- [Utilize CoPilot for Microsoft 365 to enhance the effectiveness of your email](https://aiassistant.studio/utilize-copilot-for-microsoft-365-to-enhance-the-effectiveness-of-your-email)
 <!-- HASHNODE:END -->
 
