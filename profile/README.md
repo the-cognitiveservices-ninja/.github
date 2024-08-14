@@ -18,7 +18,7 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
-- [Choosing Generative AI Solutions: Build Your Own or Use Microsoft Copilot?](https://aiassistant.studio/choosing-generative-ai-solutions-build-your-own-or-use-microsoft-copilot)
+- [Choosing Generative AI Solutions: Build Your Own or Use Microsoft Copilot and Azure AI Studio?](https://aiassistant.studio/choosing-generative-ai-solutions-build-your-own-or-use-microsoft-copilot-and-azure-ai-studio)
 - [The New Voice Capabilities of Copilot Studio: A Comprehensive Overview](https://the.cognitiveservices.ninja/the-new-voice-capabilities-of-copilot-studio-a-comprehensive-overview)
 - [Enhance Customer Service with Dynamics 365&#39;s Integrated Voice Channel](https://the.cognitiveservices.ninja/enhance-customer-service-with-dynamics-365s-integrated-voice-channel)
 - [Unleashing the Power of AI with Copilot in Dynamics 365 Sales](https://aiassistant.studio/unleashing-the-power-of-ai-with-copilot-in-dynamics-365-sales)
