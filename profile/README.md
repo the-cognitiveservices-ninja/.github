@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Azure AI Studio - a curated list](https://the.cognitiveservices.ninja/azure-ai-studio-a-curated-list)
+- [Step-by-Step Guide to Launching an Enterprise Chat Application with Azure AI Studio](https://the.cognitiveservices.ninja/step-by-step-guide-to-launching-an-enterprise-chat-application-with-azure-ai-studio)
 - [Choosing Generative AI Solutions: Build Your Own or Use Microsoft Copilot?](https://aiassistant.studio/choosing-generative-ai-solutions-build-your-own-or-use-microsoft-copilot)
-- [Unleashing the Power of AI with Copilot in Dynamics 365 Sales](https://aiassistant.studio/unleashing-the-power-of-ai-with-copilot-in-dynamics-365-sales)
-- [Copilot for Dynamics 365 Customer Service: A Comprehensive Guide](https://aiassistant.studio/copilot-for-dynamics-365-customer-service-a-comprehensive-guide)
-- [Microsoft Copilot - a curated link list](https://aiassistant.studio/microsoft-copilot-a-curated-link-list)
-- [Enhancing Whiteboard Capabilities with Copilot](https://aiassistant.studio/enhancing-whiteboard-capabilities-with-copilot)
+- [The New Voice Capabilities of Copilot Studio: A Comprehensive Overview](https://the.cognitiveservices.ninja/the-new-voice-capabilities-of-copilot-studio-a-comprehensive-overview)
+- [Enhance Customer Service with Dynamics 365&#39;s Integrated Voice Channel](https://the.cognitiveservices.ninja/enhance-customer-service-with-dynamics-365s-integrated-voice-channel)
 <!-- HASHNODE:END -->
 
