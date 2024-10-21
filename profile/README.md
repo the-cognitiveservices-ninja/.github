@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
-- [Easy Steps to Create Multilingual IVRs with Copilot Studio in Dynamics 365 Customer Service or ContactCenter](https://the.cognitiveservices.ninja/easy-steps-to-create-multilingual-ivrs-with-copilot-studio-in-dynamics-365-customer-service-or-contactcenter)
-- [Azure AI Studio - a curated list](https://the.cognitiveservices.ninja/azure-ai-studio-a-curated-list)
-- [Copilot Studio - a curated link list](https://the.cognitiveservices.ninja/copilot-studio-a-curated-link-list)
-- [Step-by-Step Guide to Launching an Enterprise Chat Application with Azure AI Studio](https://the.cognitiveservices.ninja/step-by-step-guide-to-launching-an-enterprise-chat-application-with-azure-ai-studio)
 - [Choosing Generative AI Solutions: Build Your Own or Use Microsoft Copilot?](https://aiassistant.studio/choosing-generative-ai-solutions-build-your-own-or-use-microsoft-copilot)
+- [Unleashing the Power of AI with Copilot in Dynamics 365 Sales](https://aiassistant.studio/unleashing-the-power-of-ai-with-copilot-in-dynamics-365-sales)
+- [Copilot for Dynamics 365 Customer Service: A Comprehensive Guide](https://aiassistant.studio/copilot-for-dynamics-365-customer-service-a-comprehensive-guide)
+- [Microsoft Copilot - a curated link list](https://aiassistant.studio/microsoft-copilot-a-curated-link-list)
+- [Enhancing Whiteboard Capabilities with Copilot](https://aiassistant.studio/enhancing-whiteboard-capabilities-with-copilot)
 <!-- HASHNODE:END -->
 
