@@ -18,10 +18,10 @@ I am passionate about conversational AI and robotic process automation and helpi
 
 ### 5 latest Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
+- [Enhance Your Automated Customer Service by Giving Virtual Agents a Face and Personality](https://the.cognitiveservices.ninja/enhance-your-automated-customer-service-by-giving-virtual-agents-a-face-and-personality)
 - [Revolutionizing Teamwork: Unleashing the Power of Copilot Pages for Seamless Document Collaboration with Links for IT-Admins](https://aiassistant.studio/revolutionizing-teamwork-unleashing-the-power-of-copilot-pages-for-seamless-document-collaboration-with-links-for-it-admins)
 - [Enhance Your Copilot for Microsoft 365 Experience: When Plain Copilot Isn&#39;t Enough](https://the.cognitiveservices.ninja/enhance-your-copilot-for-microsoft-365-experience-when-plain-copilot-isnt-enough)
 - [Easy Steps to Create Multilingual IVRs with Copilot Studio in Dynamics 365 Customer Service or ContactCenter](https://the.cognitiveservices.ninja/easy-steps-to-create-multilingual-ivrs-with-copilot-studio-in-dynamics-365-customer-service-or-contactcenter)
 - [Azure AI Studio - a curated list](https://the.cognitiveservices.ninja/azure-ai-studio-a-curated-list)
-- [Copilot Studio - a curated link list](https://the.cognitiveservices.ninja/copilot-studio-a-curated-link-list)
 <!-- HASHNODE:END -->
 
