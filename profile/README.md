@@ -1,5 +1,5 @@
 # Holger Imbery
-### Code Fanatic | Low Code Hacker | Bot Keeper | Power Platform & Azure Architect | MCT | developers advocate
+### MVP (Copilot Studio) & MCT | Code Fanatic | Low Code Hacker | Bot Keeper | Power Platform & Azure Architect | developers advocate
 
 ⤷ As an architect at heart, 
 I am passionate about conversational AI and robotic process automation and helping you do more with less.
